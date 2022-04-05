@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Two Activities Challenge</string>
+    <string name="activity2_name">Todays Passage</string>
+    <string name="text_one">TEXT ONE</string>
+    <string name="text_three">TEXT TWO</string>
+    <string name="text_two">TEXT THREE</string>
+    <string name="passage">TextView</string>
+    <string name="passage_one">Born and raised in Madeira, Ronaldo began his senior club career playing for Sporting CP, before signing with Manchester United in 2003, aged 18. After winning the FA Cup in his first season, he helped United win three successive Premier League titles, the UEFA Champions League, and the FIFA Club World Cup; at age 23, he won his first Ballon dor</string>
+    <string name="today_s_passage">Today\'s Passage</string>
+    <string name="passage_two">Lionel Messi is the greatest thing we have in Argentina and we must take care of him." Mayor of Buenos Aires Horacio Rodríguez Larreta unveiled a statue of Messi in the capital to convince him to reconsider retirement.</string>
+    <string name="passage_third">Marvel Comics is the brand name and primary imprint of Marvel Worldwide Inc., formerly Marvel Publishing, Inc. and Marvel Comics Group, a publisher of American comic books and related media. In 2009, The Walt Disney Company acquired Marvel Entertainment , Marvel Worldwide.</string>
+</resources>
