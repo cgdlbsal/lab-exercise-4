@@ -7,7 +7,7 @@
 <img width="300" src = "LAB4/Two.activity/twoactivities.gif"/>
 
 # TWO ACTIVITY CHALLENGE/IMG
-<img width="300" src = "LAB4/Two.activity/twoactivitieschallenge.gif"/>
+<img width="300" src = "LAB4/Two.activity/twoactivitychallenge.gif"/>
 
 # TWO ACTIVITY HOMEWORK
 <img width="300" src = "LAB4/Twoactivityhomework/twoactivityhomework.gif"/>
